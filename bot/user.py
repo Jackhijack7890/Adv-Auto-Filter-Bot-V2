@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+# (c) @star_movies_hd_telugu
 
 from pyrogram import Client, __version__
 
